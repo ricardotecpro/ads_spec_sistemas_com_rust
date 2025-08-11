@@ -241,3 +241,7 @@ Vamos aplicar tudo o que aprendemos para construir um projeto do mundo real do i
       * Escrita de testes para garantir a corretude da lógica.
 
 Ao final deste curso, você não apenas entenderá a sintaxe do Rust, mas também pensará como um "Rustacean", escrevendo código seguro, performático e elegante. Parabéns por iniciar esta jornada\! 🎉
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
