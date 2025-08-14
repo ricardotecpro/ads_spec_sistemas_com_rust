@@ -1,4 +1,6 @@
-## Curso de Rust 🦀: Do Zero à Maestria em Sistemas Seguros e Performáticos
+# Rust 🦀: 
+
+## Sistemas Seguros e Performáticos
 
 **Bem-vindo(a) à sua jornada definitiva para dominar o Rust\!** 🚀
 
